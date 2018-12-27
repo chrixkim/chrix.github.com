@@ -1,1 +1,1 @@
-<script>alert('aaa');</script>
+<script>document.write("aaa")</script>
