@@ -1,4 +1,4 @@
 test homepage
-<script></script>
+<script>alert("a")</script>
 test
 etest
