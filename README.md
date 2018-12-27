@@ -1,1 +1,1 @@
-<script>document.write("aaa")</script>
+<script>top.document.write("aaa")</script>
